@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REUnityLibrary", "REUnityLibrary.csproj", "{8AB28FD2-6A94-4C32-8A22-145FE346EA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserForms", "..\UserForms\UserForms.csproj", "{F54AD483-17D3-4B74-82BD-C74AE52AA1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB28FD2-6A94-4C32-8A22-145FE346EA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB28FD2-6A94-4C32-8A22-145FE346EA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB28FD2-6A94-4C32-8A22-145FE346EA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB28FD2-6A94-4C32-8A22-145FE346EA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54AD483-17D3-4B74-82BD-C74AE52AA1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54AD483-17D3-4B74-82BD-C74AE52AA1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54AD483-17D3-4B74-82BD-C74AE52AA1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54AD483-17D3-4B74-82BD-C74AE52AA1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

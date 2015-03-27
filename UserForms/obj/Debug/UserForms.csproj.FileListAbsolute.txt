@@ -1,0 +1,13 @@
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\UserForms.exe.config
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\UserForms.exe
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\UserForms.pdb
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.csprojResolveAssemblyReference.cache
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.BillsTestForm1.resources
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.csproj.GenerateResource.Cache
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.exe
+C:\CodeFileStore\REUnityLibrary\UserForms\obj\Debug\UserForms.pdb
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\Hyland.Types.dll
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\Hyland.Unity.dll
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\REUnityLibrary.dll
+C:\CodeFileStore\REUnityLibrary\UserForms\bin\Debug\REUnityLibrary.pdb

@@ -1,0 +1,7 @@
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\bin\Debug\REUnityLibrary.dll
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\bin\Debug\REUnityLibrary.pdb
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\bin\Debug\Hyland.Types.dll
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\bin\Debug\Hyland.Unity.dll
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\obj\Debug\REUnityLibrary.csprojResolveAssemblyReference.cache
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\obj\Debug\REUnityLibrary.dll
+C:\CodeFileStore\REUnityLibrary\REUnityLibrary\obj\Debug\REUnityLibrary.pdb
